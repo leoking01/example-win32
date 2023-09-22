@@ -1,4 +1,6 @@
 #include <windows.h>
+//C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um
+
 
 static LRESULT WindowProc(HWND h, UINT msg, WPARAM wp, LPARAM lp) {
 /* More info at [2] */
